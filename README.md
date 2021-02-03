@@ -7,7 +7,7 @@
 Here is a list of DataflowEx cool features:
 
 * Block chain/graph encapsulation as a reusable component
-* Inheritance and polymorphism for dataflows and their hehaviors
+* Inheritance and polymorphism for dataflows and their behaviors
 * Sophisticated dataflow lifecycle management (e.g. Failure propagation, dynamic flow expansion) 
 * Advanced dataflow chaining/linking 
 * Extensive logging and built-in dataflow health monitor
